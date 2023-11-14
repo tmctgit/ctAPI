@@ -1,0 +1,6 @@
+Alias /ctAPI "C:\Users\IMS-DSPS\gitRepos\ctAPI"
+<Directory "C:\Users\IMS-DSPS\gitRepos\ctAPI">
+  Options Indexes FollowSymLinks Includes ExecCGI
+  AllowOverride All
+  Require all granted
+</Directory>
